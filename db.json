@@ -249,7 +249,7 @@
       "rate": 7.4
     },
     {
-      "userId": 7,
+      "userId": 1,
       "id": 3,
       "movie": "Tomboy",
       "genre": "Drama",
@@ -329,14 +329,6 @@
       "rate": 1.0
     },
     {
-      "userId": 10,
-      "id": 13,
-      "movie": "Triad Underworld (Gong wu) (Jiang Hu)",
-      "genre": "Action|Crime|Drama",
-      "watched": "2021-08-10 00:29:04",
-      "rate": 7.1
-    },
-    {
       "userId": 7,
       "id": 14,
       "movie": "Wake in Providence, A",
@@ -367,14 +359,6 @@
       "genre": "Adventure|Animation|Children|Comedy|Musical",
       "watched": "2021-08-05 18:57:45",
       "rate": 5.8
-    },
-    {
-      "userId": 8,
-      "id": 18,
-      "movie": "El Dorado",
-      "genre": "Western",
-      "watched": "2022-08-30 12:38:02",
-      "rate": 2.0
     },
     {
       "userId": 6,
